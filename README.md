@@ -1,2 +1,18 @@
-# Meu-primeiro-Projeto-Java
-Projeto de criação para demonstração de aprendizagem na linguagem de programação JAVA, através de um projeto de sistema bancário.
+# Projeto: Sistema Bancário Java
+
+Este projeto simula contas bancárias com funcionalidades como:
+
+- Abertura de conta
+- Depósito
+- Saque
+- Exibição de informações
+
+## Linguagens e ferramentas:
+- Java
+- IntelliJ IDEA
+
+## Autora:
+Victoria Menenguci
+
+## Status:
+Em desenvolvimento
